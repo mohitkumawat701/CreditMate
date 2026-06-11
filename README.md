@@ -21,7 +21,3 @@ Credit Mate is an Android application developed using Kotlin and Firebase.
 
 Download:
 apk/app-debug.apk
-
-## Screenshots
-
-Available in screenshots folder.
